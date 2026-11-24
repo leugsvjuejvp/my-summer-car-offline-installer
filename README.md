@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+My Summer Car is the ultimate car owning, building, fixing, tuning, maintenance AND permadeath life survival simulator. You start the game with hundreds of loose parts and assemble both car and engine.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,14 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: +3 GHZ dual core processor / Rec: Intel Core i5 or AMD equivalent | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 6 GB RAM / Rec: 8 GB RAM | 6 GB RAM |
+| **Graphics** | Min: Nvidia GTX 960 or AMD equivalent / Rec: Nvidia GTX 1070 or AMD equivalent | Metal-capable GPU |
+| **DirectX** | Version 9.0 | Version 9.0 |
+| **Storage** | 1 GB available space | 1 GB available space |
+| **OS *** | 64bit versions of Windows 7, Windows 8, Windows 10 | 64bit versions of Windows 7, Windows 8, Windows 10 |
+| **Sound Card** | DirectX Compatible Soundcard | DirectX Compatible Soundcard |
+| **Additional Notes** | High CPU single core performance required | High CPU single core performance required |
 
 ---
 
